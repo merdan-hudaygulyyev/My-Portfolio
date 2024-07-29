@@ -311,6 +311,7 @@ form input, form textarea {
 form .btn2 {
     padding: 14px 60px;
     font-size: 18px;
+    margin-left: 0px;
     margin-top: 20px;
     cursor: pointer;
 }
@@ -327,4 +328,9 @@ form .btn2 {
 }
 nav .fa-solid, nav .fa-regular {
     display: none;
+}
+#msg {
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
 }
